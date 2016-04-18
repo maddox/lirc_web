@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo ln -s /home/pi/apps/lirc_web/lirc_web /etc/init.d/lirc_web
