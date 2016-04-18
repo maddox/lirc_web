@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo /etc/init.d/lirc_web stop
+sudo /etc/init.d/lirc_web start
